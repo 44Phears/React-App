@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Momo+Signature&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+
+body {
+  background-color: rgb(68, 71, 75);
+  color: rgb(88, 8, 8);
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  font-family: "Raleway", sans-serif;
+}
+
+h1,
+h3,
+h2 {
+  font-family: "Momo Signature", cursive;
+}
