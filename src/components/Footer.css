@@ -1,0 +1,35 @@
+.footer {
+  background-color: #1e3f9b;
+  color: #ccaf60;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+  border-top: 3px solid #ccaf60;
+}
+
+.tmdb-logo-slot {
+  margin: 10px;
+  padding: 5px;
+  width: 500px;
+  height: 65px;
+  border: 2px solid #ccaf60;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  opacity: 0.9;
+}
+
+.footer a {
+  color: #5FD3D3;
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.3s, text-decoration 0.3s;
+}
+
+.footer a:hover {
+  color: #40CFCF;
+  text-decoration: underline;
+}
+

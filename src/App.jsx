@@ -8,17 +8,15 @@ import PopularList from "./components/PopularList.jsx";
 import NowPlayingList from "./components/NowPlayingList.jsx";
 
 function App() {
-  const name = "Your Mom";
+  const name = "TMDB";
 
   return (
     <>
       <header>
-        <h1>Candy Listing For {name}</h1>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis illo
-          cumque sit dignissimos, consectetur nemo possimus accusamus maxime
-          excepturi molestiae nesciunt, laborum corrupti quis asperiores!
-        </p>
+        <br/>
+        <h1>MOVIE LISTING FROM {name}</h1>
+        <br/>
+        
       </header>
       <Navbar />
 

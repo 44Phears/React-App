@@ -5,7 +5,7 @@ const CandyCard = ({ candy }) => {
   return (
     <div className="card">
       <img src={candy.canImg} alt="CandyImg" />
-      <h3>{candy.brand}</h3>
+      <h2>{candy.brand}</h2>
       <p>{candy.descrip.slice(0, 100) + "..."}</p>
     </div>
   );
